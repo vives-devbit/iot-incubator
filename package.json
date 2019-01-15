@@ -1,0 +1,23 @@
+{
+    "name": "iot-incubator",
+    "version": "0.0.1",
+    "description": "IoT Incubator website",
+    "main": "README.md",
+    "scripts": {
+      "docs:build": "vuepress build",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pcordemans/iot-incubator"
+    },
+    "author": "Sille Van Landschoot <info@sillevl.be>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/pcordemans/iot-incubator/issues"
+    },
+    "homepage": "https://github.com/pcordemans/iot-incubator#readme",
+    "dependencies": {
+      "vuepress": "^0.14.8"
+    }
+  }
