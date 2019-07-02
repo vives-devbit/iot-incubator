@@ -40,12 +40,17 @@ Our courses can be requested on demand. An overview (in Dutch) can be found [her
 ## Projects
 
 * [LoRaWAN](https://lorawan-nta.be)
+* [Ding.js](https://gitlab.com/devbit/dingjs)
+* IoT opportunities
+* [THUMFI: Training the Human Firewall](https://thumfi.be)
 * [Ijsster](https://www.vives.be/nl/nieuws/innovatieve-app-van-vives-en-ijsster-brugge-maakt-dat-je-de-ijskar-niet-meer-misloopt)
 
 ![Ijsster](./media/ijsster.jpg)
 
-## Communities
+## We are active on
 
+* [GitHub](https://github.com/VIVES-Elektronica-ICT-Brugge)
+* [Gitlab](https://gitlab.com/devbit)
 * [The Things Network](https://www.thethingsnetwork.org/community/bruges/)
 
 ## Contact
