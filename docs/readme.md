@@ -39,6 +39,7 @@ Our courses can be requested on demand. An overview (in Dutch) can be found [her
 
 ## Projects
 
+* [AI@EDGE](https://ai-edge.be)
 * [LoRaWAN](https://lorawan-nta.be)
 * [Ding.js](https://gitlab.com/devbit/dingjs)
 * IoT opportunities
